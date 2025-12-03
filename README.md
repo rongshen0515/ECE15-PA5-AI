@@ -3,7 +3,7 @@
 My not very smart AI for ECE15
 
 Pros:
- - Able to prevent player from winning (only works if win is vertical or diagonal) 
+ - Able to prevent player from winning (only works if win is horizontal or diagonal) 
  - Able to place the winning move if it is about to win
  - Able to not crash (huge accomplishment)
  - More emotionally stable than my girlfriend (I don't have one)
